@@ -52,7 +52,7 @@ GPT：这个项目旨在开发一个用于从招聘网站上提取实体信息�
 1. **克隆仓库**: 首先，你需要克隆这个Git仓库到你的本地环境。
 
 ```bash
-git clone https://github.com/yourusername/recruitment-ner.git
+git clone https://github.com/zdongs/zpner_xyz.git
 ```
 
 2. **创建分支**: 请创建一个新的分支，以便你的工作不会影响主分支。
