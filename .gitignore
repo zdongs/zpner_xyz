@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+bert_model/
 data/
 eggs/
 .eggs/
