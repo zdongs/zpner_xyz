@@ -17,6 +17,7 @@ data/
 eggs/
 .eggs/
 lib/
+model/
 lib64/
 parts/
 sdist/
