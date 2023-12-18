@@ -6,7 +6,6 @@ from torch.nn.modules import BCEWithLogitsLoss
 from torch.utils.data import Dataset
 from transformers import BertConfig
 from transformers import BertModel, BertPreTrainedModel
-from transformers import get_linear_schedule_with_warmup, get_polynomial_decay_schedule_with_warmup
 
 class BertQueryNerConfig(BertConfig):
     def __init__(self, **kwargs):

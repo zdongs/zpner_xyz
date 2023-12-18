@@ -1,7 +1,7 @@
 # 模型本体（含训练评估用Dataset、损失计算、评估方法）
 
 import torch
-from model_utils import train_utils
+import train_utils
 from transformers import BertTokenizerFast
 from torch.utils.data import DataLoader
 from torch.nn.utils.rnn import pad_sequence
